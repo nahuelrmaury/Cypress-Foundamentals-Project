@@ -1,4 +1,4 @@
-# Cypress Practice Project
+# Cypress Foundamentals Project
 
 Welcome to my Cypress practice project where I explore various aspects of JavaScript and Cypress to enhance my testing skills. In this project, I've focused on the following key areas:
 
@@ -62,7 +62,10 @@ cd cypress-practice
 3. Install the project dependencies:
 npm install
 
-4. Run Cypress tests:
+4. Run node:
+npm dev run
+
+5. Run Cypress tests:
 npx cypress open
 
 This will open the Cypress Test Runner, where you can select and run individual test cases or suites.
